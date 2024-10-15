@@ -20,3 +20,6 @@ seaborn==0.10.1
     # via -r requirements.in
 six==1.16.0
     # via python-dateutil
+
+
+pypdf2
